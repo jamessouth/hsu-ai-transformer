@@ -1,2 +1,2 @@
-# hsu-ai-kaggle-titanic
-kaggle assignment for HSU AI class
+# hsu-ai-transformer
+transformer model assignment for HSU AI class
